@@ -1,24 +1,10 @@
 ---
 title: Zeitkapsel
 createdAt: '2010-09-10T09:39:53.000Z'
-cover: '4986480464'
+cover: '4318211157'
 photos:
-  - '4986480464'
-  - '4989934432'
-  - '4989937346'
-  - '4989939786'
-  - '4989942124'
-  - '4989337153'
-  - '4989339705'
-  - '4975949701'
-  - '4975951499'
-  - '4976564378'
-  - '4989950042'
-  - '4989952762'
-  - '4989958196'
-  - '4989347947'
-  - '4989356283'
-  - '4989967516'
+  - '4318211157'
+  - '4318944258'
 ---
 
 Anlässlich meines 30. Geburtstages letzte Woche habe ich mir ausgedacht, mit meinen Freunde eine Zeitkapsel an zu legen, und diese in 30 Jahren auch wieder gemeinsam zu öffnen.
