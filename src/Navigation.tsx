@@ -40,8 +40,8 @@ export const Navigation = () => (
   <Header>
     <section>
       <h1>
-        <a href={'https://coderbyheart.com'} rel="me">
-          <strong>Markus Tacker</strong>
+        <a href={'https://github.com/22940dev'} rel="me">
+          <strong>Bells Vista Farm</strong>
         </a>
         {' · '}
         Photos
