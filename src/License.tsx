@@ -10,11 +10,11 @@ const Photographer = ({ media }: { media: Media }) => {
   if (media.photographer === undefined)
     return (
       <a
-        href={'https://coderbyheart.com/'}
+        href={'https://github.com/22940dev/'}
         target={'blank'}
         rel={'noreferrer noopener'}
       >
-        Markus Tacker
+        Bells Vista Farm
       </a>
     );
   if (media.photographer.url === undefined)
